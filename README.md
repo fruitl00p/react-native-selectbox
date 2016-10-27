@@ -24,7 +24,7 @@ import Selectbox from 'react-native-selectbox'
 
 [..]
 
-class SampleApp extends Component {
+class App extends React.Component {
 
     ...
 
@@ -41,7 +41,7 @@ class SampleApp extends Component {
 
         return (
             <View>
-                <Picker
+                <Selectbox
                     selectedItem=this.props.selectedItem
                     onChange={this._onChange}
                     items=items />
