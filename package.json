@@ -1,0 +1,28 @@
+{
+  "name": "react-native-selectbox",
+  "version": "0.0.1",
+  "description": "An OS independant take on the native react-native-picker with modal for selecting items",
+  "main": "src/Picker.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruitl00p/react-native-selectbox.git"
+  },
+  "keywords": [
+    "react-native",
+    "dropdown",
+    "popover",
+    "select",
+    "picker",
+    "selectbox",
+    "modal",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "author": "Robin Speekenbrink <robin@kingsquare.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fruitl00p/react-native-selectbox/issues"
+  },
+  "homepage": "https://github.com/fruitl00p/react-native-selectbox#readme"
+}
