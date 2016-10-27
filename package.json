@@ -1,8 +1,8 @@
 {
   "name": "react-native-selectbox",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An OS independant take on the native react-native-picker with modal for selecting items",
-  "main": "src/Picker.js",
+  "main": "src/Selectbox.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fruitl00p/react-native-selectbox.git"
