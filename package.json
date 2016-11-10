@@ -1,6 +1,6 @@
 {
   "name": "react-native-selectbox",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "An OS independant take on the native react-native-picker with modal for selecting items",
   "main": "src/Selectbox.js",
   "repository": {
@@ -29,7 +29,7 @@
     "react-native-vector-icons": "^2.0"
   },
   "peerDependencies": {
-    "react": "^15.0",
-    "react-native": "^0.27"
+    "react": ">15.0",
+    "react-native": ">0.27"
   }
 }
