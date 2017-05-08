@@ -88,7 +88,7 @@ export default class Selectbox extends React.Component {
                     ) : null
                 }
                 <View style={styles.optionContainer}>
-                    <ScrollView keyboardShouldPersistTaps>
+                    <ScrollView keyboardShouldPersistTaps="always">
                         <View style={styles.optionContainerInnerContainer}>
                             {options}
                         </View>

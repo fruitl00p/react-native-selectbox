@@ -1,6 +1,6 @@
 {
   "name": "react-native-selectbox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An OS independant take on the native react-native-picker with modal for selecting items",
   "main": "src/Selectbox.js",
   "repository": {
