@@ -1,6 +1,6 @@
 {
   "name": "react-native-selectbox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An OS independant take on the native react-native-picker with modal for selecting items",
   "main": "src/Selectbox.js",
   "repository": {
@@ -27,6 +27,13 @@
   "homepage": "https://github.com/fruitl00p/react-native-selectbox#readme",
   "dependencies": {
     "react-native-vector-icons": "^2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-kingsquare": "^1.0.6",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
   },
   "peerDependencies": {
     "react": ">15.0",
